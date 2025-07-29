@@ -1,1 +1,1 @@
-# -Student_Result_Management_System
+# Student_Result_Management_System
